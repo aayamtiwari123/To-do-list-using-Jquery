@@ -1,13 +1,13 @@
 📝 To-Do List App
-A simple to-do list application built with jQuery and Local Storage.
-✨ Features
 
-Add and delete tasks
-Data persists in browser's Local Storage
-Clean and responsive interface
+A simple to-do list application built with jQuery and Local Storage.
+
+✨ Features
+1) Add and delete tasks
+2) Data persists in browser's Local Storage
+3) Clean and responsive interface
 
 🛠️ Technologies
-
-HTML5, CSS3
-jQuery 3.7.1
-Local Storage API
+1)HTML5, CSS3
+2)jQuery 3.7.1
+3)Local Storage API
