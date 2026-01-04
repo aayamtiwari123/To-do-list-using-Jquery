@@ -8,6 +8,6 @@ A simple to-do list application built with jQuery and Local Storage.
 3) Clean and responsive interface
 
 🛠️ Technologies
-1)HTML5, CSS3
-2)jQuery 3.7.1
-3)Local Storage API
+1) HTML5, CSS3
+2) jQuery 3.7.1
+3) Local Storage API
